@@ -8,7 +8,7 @@ https://quiz-time-game.netlify.app/
 screen shots from the app:
 
 (1) Welcome Screen:
-![image](https://user-images.githubusercontent.com/79985779/162590585-7bb478ca-4e8f-41cd-adf9-4235384b18bd.png)
+![162590585-7bb478ca-4e8f-41cd-adf9-4235384b18bd](https://github.com/user-attachments/assets/b8c86e95-99e3-483a-a3f0-82e8e6fa0d9f)
 
 (2) Main Screen:
 ![image](https://user-images.githubusercontent.com/79985779/162590607-399c91cb-befa-4b51-bb6b-b5cf714eff6d.png)
